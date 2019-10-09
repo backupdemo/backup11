@@ -85,23 +85,23 @@ iframe {
 }
 .cont .back_card:nth-child(1) .face.face2{
     background: linear-gradient(45deg, rgb(0, 0, 0), #02fe7f ) ;
-    background-image: url("../assets/what.png");
+    /* background-image: url("../assets/what.png");
     background-size: 100% 100%;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
 
 }
 .cont .back_card:nth-child(2) .face.face2{
     background: linear-gradient(45deg, #02fe7f, #5e5e5e ) ;
-    background-image: url("../assets/news6.jpg");
+    /* background-image: url("../assets/news6.jpg");
     background-size: 100% 100%;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
     
 }
 .cont .back_card:nth-child(3) .face.face2{
     background: linear-gradient(45deg, #000000, #02fe7f ) ;
-    background-image: url("../assets/news3.jpg");
+    /* background-image: url("../assets/news3.jpg");
     background-size: 100% 100%;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
 }
 .cont .back_card:hover .face.face2{
     height: 60px;
@@ -128,15 +128,16 @@ iframe {
 
 /* end */
 
-/* #load{
+ #load{
     width:100%;
     top: 0;
     left: 0;
     height:100%;
     position: fixed;
     z-index:99999;
-    background:url("../assets/logo1.gif") no-repeat center center black;
+    background:url("../assets/logonew.gif") no-repeat center center black;
 }
+/*
 .tree ul {
     padding-top: 20px;
     position: relative;
