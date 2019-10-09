@@ -11,7 +11,7 @@ particlesJS('particles-js',
         }
       },
       "color": {
-        "value": ["#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#FF0000"]
+        "value": ["#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#00d68d","#FF0000"]
       },
       "shape": {
         "type": "circle",
@@ -73,11 +73,11 @@ particlesJS('particles-js',
       "detect_on": "canvas",
       "events": {
         "onhover": {
-          "enable": false,
+          "enable": true,
           "mode": "repulse"
         },
         "onclick": {
-          "enable": false,
+          "enable": true,
           "mode": "push"
         },
         "resize": true
@@ -97,7 +97,7 @@ particlesJS('particles-js',
           "speed": 3
         },
         "repulse": {
-          "distance": 150
+          "distance": 100
         },
         "push": {
           "particles_nb": 4

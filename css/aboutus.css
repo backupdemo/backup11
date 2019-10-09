@@ -65,7 +65,7 @@ body::-webkit-scrollbar-thumb
   }
   .aboutimg img{
     height: 100%;
-    width: 100%;
+    width: 140%;
   }
   .navbar-brand>img:nth-child(1) {
     width: 18%;
@@ -473,7 +473,23 @@ body::-webkit-scrollbar-thumb
   color: black;
   font-size: 18px;
 }
-
+#more {
+  border: solid white;
+  margin: 5px;
+  border-radius: 2em;
+  background: black;
+  color: white;
+  height: 50px;
+  width: 150px;
+  font-size: 20px;
+}
+#more:hover{
+  /* background: white; */
+  color: #02fe7f ;
+  border: 3px solid #02fe7f;
+  box-shadow: 0px 10px 42px rgba(243, 243, 243, 0.4);
+  transition: 0.7s all ease;
+}
     
 }
 
@@ -847,7 +863,23 @@ padding-top:5px !important;
   color: black;
   font-size: 18px;
 }
-
+#more {
+  border: solid white;
+  margin: 5px;
+  border-radius: 2em;
+  background: black;
+  color: white;
+  height: 50px;
+  width: 150px;
+  font-size: 20px;
+}
+#more:hover{
+  /* background: white; */
+  color: #02fe7f ;
+  border: 3px solid #02fe7f;
+  box-shadow: 0px 10px 42px rgba(243, 243, 243, 0.4);
+  transition: 0.7s all ease;
+}
     
 }
 
@@ -1255,6 +1287,23 @@ padding-top:5px !important;
   font-size: 18px;
 }
 
+#more {
+  border: solid white;
+  margin: 5px;
+  border-radius: 2em;
+  background: black;
+  color: white;
+  height: 50px;
+  width: 150px;
+  font-size: 20px;
+}
+#more:hover{
+  /* background: white; */
+  color: #02fe7f ;
+  border: 3px solid #02fe7f;
+  box-shadow: 0px 10px 42px rgba(243, 243, 243, 0.4);
+  transition: 0.7s all ease;
+}
     
 }
 
@@ -1610,7 +1659,23 @@ padding-top:5px !important;
   color: black;
   font-size: 18px;
 }
-
+#more {
+  border: solid white;
+  margin: 5px;
+  border-radius: 2em;
+  background: black;
+  color: white;
+  height: 50px;
+  width: 150px;
+  font-size: 20px;
+}
+#more:hover{
+  /* background: white; */
+  color: #02fe7f ;
+  border: 3px solid #02fe7f;
+  box-shadow: 0px 10px 42px rgba(243, 243, 243, 0.4);
+  transition: 0.7s all ease;
+}
     
 }
 
@@ -1967,7 +2032,23 @@ padding-top:5px !important;
   font-size: 18px;
 }
 
-    
+#more {
+  border: solid white;
+  margin: 5px;
+  border-radius: 2em;
+  background: black;
+  color: white;
+  height: 50px;
+  width: 150px;
+  font-size: 20px;
+}
+#more:hover{
+  /* background: white; */
+  color: #02fe7f ;
+  border: 3px solid #02fe7f;
+  box-shadow: 0px 10px 42px rgba(243, 243, 243, 0.4);
+  transition: 0.7s all ease;
+}
 }
 
 /* 
